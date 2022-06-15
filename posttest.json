@@ -1,0 +1,17 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Digital fabrication is",
+      "answers": {
+        "a": "evolving",
+        "b": "customizable",
+        "c": "empowers the poor",
+        "d": "All of these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
